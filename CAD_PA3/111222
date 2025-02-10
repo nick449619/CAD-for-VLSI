@@ -1,0 +1,26 @@
+
+    // 创建 test 节点，并链接到链表中
+    
+    test->prev = head;
+    test->next = nullptr;
+    test->y = 150;
+    test->x0 = 10;
+    test->xf = 20;
+    head->next = test;
+
+    // 创建 last 节点，并链接到链表中
+    
+    last->prev = test;
+    last->next = nullptr;
+    last->y = 160;
+    last->x0 = 20;
+    last->xf = 30;
+    test->next = last;
+
+    while(head!=nullptr){
+        cout << "start" << endl;
+        cout << head->x0 << endl;
+        cout << head->xf << endl;
+        cout << head->y << endl;
+        head = head->next;
+    }
