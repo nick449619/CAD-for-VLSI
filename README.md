@@ -9,4 +9,4 @@
 
 [PA4. IR-drop Prediction](https://hackmd.io/@0q1kuGxfTDm_wlE7JXbH3g/ryzkJDLS0) - Trained an IR-drop predictor using XGBoost machine learning.
 
-[PA5. Reinforcement Logic Optimization for a General Cost Function (2024 ICCAD Contest)](https://youtu.be/Md63IQKfBFA) - Implemented a Genetic Algorithm (GA) for logic optimization in circuits.
+[Final Project. Reinforcement Logic Optimization for a General Cost Function (2024 ICCAD Contest)](https://youtu.be/Md63IQKfBFA) - Implemented a Genetic Algorithm (GA) for logic optimization in circuits.
